@@ -7,17 +7,6 @@ This is a collection of modular logs documenting my thoughts and plans on the ro
 
 ## 📅 日志索引 / Journal Index
 
-### 💰 财务与投资 (Finance)
-* **[2026-05-10 | 投资心得：九一原则](./2026-05-10-investment-philosophy/)**
-    - **CN**: 稳健底色下的全球视野：我的“九一”资产配置策略。
-    - **EN**: Global vision with a stable foundation: My 90/10 asset allocation strategy.
-
-### 🗾 目标调研 (Research)
-* **[Coming Soon]** 日本 IT 市场准入与生存现状调研。
-
-### 📚 个人成长 (Growth)
-* **[Coming Soon]** 程序员的日语自律学习路径。
-
 ---
 
 ## 🎯 阶段性状态 / Current Status
